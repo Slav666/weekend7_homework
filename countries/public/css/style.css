@@ -1,0 +1,18 @@
+img {
+  width: 100px;
+}
+body {
+  font-family: Monaco;
+  background-color: #F8F8F8;
+}
+section {
+  background-color: yellow;
+  width: 300px;
+}
+#country {
+  background-color: red;
+
+}
+l {
+  padding: 5px;
+}

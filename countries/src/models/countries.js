@@ -3,6 +3,7 @@ const PubSub = require('../helpers/pub_sub.js')
 
 const Countries = function () {
   this.data = null;
+
 };
 
 Countries.prototype.getData = function () {
@@ -18,7 +19,5 @@ Countries.prototype.getData = function () {
     console.error(err)
   });
 };
-
-
 
 module.exports = Countries;
